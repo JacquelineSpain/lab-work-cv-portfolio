@@ -9,7 +9,8 @@ h2 {
 	color: #000;
 }
 img {
-	
+	border: solid;
+	border-color: #000;
 }
 ul {
 	text-decoration: bold;
