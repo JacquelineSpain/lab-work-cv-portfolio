@@ -12,7 +12,11 @@ img {
 	
 }
 ul {
-
+	text-decoration: bold;
+}
+a {
+	text-decoration: none;
+	font-family: Arial, Serif;
 }
 a:link{
 	color: #FF8C00;
