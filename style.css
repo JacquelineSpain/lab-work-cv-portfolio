@@ -1,12 +1,28 @@
 body {
-	background-color:;
-	font-size:;
-	font-family:;
+	background-color: #000;
+	font-size: 12pt;
+	font-family: Georgia, Serif;
 	background-image: url("sativa.png");
+	color: #000;
 }
 h2 {
-
+	color: #000;
 }
 img {
 	
+}
+ul {
+
+}
+a:link{
+	color: #FF8C00;
+}
+a:visited {
+	color: #DC143C;
+}
+a:hover {
+	color: #FF7F50;
+}
+a:active  {
+	color: #5F9EA0;
 }
